@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>k8s on Citizix - The Devops Experiences</title>
+    <link>https://citizix.com/tags/k8s/</link>
+    <description>Recent content in k8s on Citizix - The Devops Experiences</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 05 Feb 2021 14:06:33 +0300</lastBuildDate><atom:link href="https://citizix.com/tags/k8s/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Working With Helm Kubernetes</title>
+      <link>https://citizix.com/posts/working-with-helm-kubernetes/</link>
+      <pubDate>Fri, 05 Feb 2021 14:06:33 +0300</pubDate>
+      
+      <guid>https://citizix.com/posts/working-with-helm-kubernetes/</guid>
+      <description>Introduction Helm is a package manager for kubernetes. Same with rpm or apt.</description>
+    </item>
+    
+  </channel>
+</rss>

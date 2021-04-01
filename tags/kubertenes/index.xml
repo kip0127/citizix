@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>kubertenes on Citizix - The Devops Experiences</title>
+    <link>https://citizix.com/tags/kubertenes/</link>
+    <description>Recent content in kubertenes on Citizix - The Devops Experiences</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 04 Feb 2021 09:34:00 +0300</lastBuildDate><atom:link href="https://citizix.com/tags/kubertenes/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Setup Jenkins Kubernetes</title>
+      <link>https://citizix.com/posts/setup-jenkins-kubernetes/</link>
+      <pubDate>Thu, 04 Feb 2021 09:34:00 +0300</pubDate>
+      
+      <guid>https://citizix.com/posts/setup-jenkins-kubernetes/</guid>
+      <description>This guide will help you set up jenkins in kubernetes using helm.</description>
+    </item>
+    
+  </channel>
+</rss>

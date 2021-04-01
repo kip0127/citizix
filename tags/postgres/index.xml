@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>postgres on Citizix - The Devops Experiences</title>
+    <link>https://citizix.com/tags/postgres/</link>
+    <description>Recent content in postgres on Citizix - The Devops Experiences</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 10 Feb 2021 19:26:36 +0300</lastBuildDate><atom:link href="https://citizix.com/tags/postgres/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Backup and Restore Postgres Database</title>
+      <link>https://citizix.com/posts/backup-and-restore-postgres-database/</link>
+      <pubDate>Wed, 10 Feb 2021 19:26:36 +0300</pubDate>
+      
+      <guid>https://citizix.com/posts/backup-and-restore-postgres-database/</guid>
+      <description>Introduction PostgreSQL comes with built-in utilities for creating and restoring backups</description>
+    </item>
+    
+    <item>
+      <title>Postgres Create User, Database and Add Access</title>
+      <link>https://citizix.com/posts/postgres-create-user-database-add-access/</link>
+      <pubDate>Tue, 12 Jan 2021 07:23:07 +0300</pubDate>
+      
+      <guid>https://citizix.com/posts/postgres-create-user-database-add-access/</guid>
+      <description>Introduction Note: This is tested on Centos 8 server running postgres 13.</description>
+    </item>
+    
+  </channel>
+</rss>

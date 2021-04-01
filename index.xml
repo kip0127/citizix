@@ -1,0 +1,260 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Citizix - The Devops Experiences</title>
+    <link>https://citizix.com/</link>
+    <description>Recent content on Citizix - The Devops Experiences</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 30 Mar 2021 22:00:16 +0300</lastBuildDate><atom:link href="https://citizix.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Up and Running With Kaniko</title>
+      <link>https://citizix.com/posts/up-and-running-with-kaniko/</link>
+      <pubDate>Tue, 30 Mar 2021 22:00:16 +0300</pubDate>
+      
+      <guid>https://citizix.com/posts/up-and-running-with-kaniko/</guid>
+      <description>Kaniko - Building container images without docker daemon Kaniko, is an open-source tool for building container images from a Dockerfile inside a container or Kubernetes cluster.</description>
+    </item>
+    
+    <item>
+      <title>Create Cassandra User and Grant Permissions</title>
+      <link>https://citizix.com/posts/create-cassandra-user-and-grant-permissions/</link>
+      <pubDate>Wed, 24 Mar 2021 18:13:08 +0300</pubDate>
+      
+      <guid>https://citizix.com/posts/create-cassandra-user-and-grant-permissions/</guid>
+      <description>Introduction Cqlsh is a utility for running simple CQL (Cassandra Query Language) commands on a local or remote Cassandra cluster.</description>
+    </item>
+    
+    <item>
+      <title>Create Mysql User and Grant Permissions</title>
+      <link>https://citizix.com/posts/create-mysql-user-and-grant-permissions/</link>
+      <pubDate>Wed, 17 Mar 2021 20:22:53 +0300</pubDate>
+      
+      <guid>https://citizix.com/posts/create-mysql-user-and-grant-permissions/</guid>
+      <description>Introduction MySQL is the most popular open-source relational database management system.</description>
+    </item>
+    
+    <item>
+      <title>Local Kubernetes With Multipass</title>
+      <link>https://citizix.com/posts/local-kubernetes-with-multipass/</link>
+      <pubDate>Thu, 25 Feb 2021 10:39:29 +0300</pubDate>
+      
+      <guid>https://citizix.com/posts/local-kubernetes-with-multipass/</guid>
+      <description>Install multipass:
+brew install multipass Create a multipass vm
+multipass launch --name k3s --cpus 3 --mem 4g --disk 20g Get Info</description>
+    </item>
+    
+    <item>
+      <title>Linux Find Command</title>
+      <link>https://citizix.com/posts/linux-find-command/</link>
+      <pubDate>Wed, 10 Feb 2021 22:02:31 +0300</pubDate>
+      
+      <guid>https://citizix.com/posts/linux-find-command/</guid>
+      <description>The Linux find command is a built in powerful tool that can be used to locate and manage files and directories based on a wide range of search criteria.</description>
+    </item>
+    
+    <item>
+      <title>Using Mail Command Linux</title>
+      <link>https://citizix.com/posts/using-mail-command-linux/</link>
+      <pubDate>Wed, 10 Feb 2021 19:50:05 +0300</pubDate>
+      
+      <guid>https://citizix.com/posts/using-mail-command-linux/</guid>
+      <description>Linux mail command Mail command
+mail -s &amp;#34;Test mail&amp;#34; johndoe@example.com Send message from a file</description>
+    </item>
+    
+    <item>
+      <title>Backup and Restore Postgres Database</title>
+      <link>https://citizix.com/posts/backup-and-restore-postgres-database/</link>
+      <pubDate>Wed, 10 Feb 2021 19:26:36 +0300</pubDate>
+      
+      <guid>https://citizix.com/posts/backup-and-restore-postgres-database/</guid>
+      <description>Introduction PostgreSQL comes with built-in utilities for creating and restoring backups</description>
+    </item>
+    
+    <item>
+      <title>Working With Ssh Keys</title>
+      <link>https://citizix.com/posts/working-with-ssh-keys/</link>
+      <pubDate>Wed, 10 Feb 2021 19:18:36 +0300</pubDate>
+      
+      <guid>https://citizix.com/posts/working-with-ssh-keys/</guid>
+      <description>Introduction SSH is a secure protocol used as the primary means of connecting to Linux servers remotely.</description>
+    </item>
+    
+    <item>
+      <title>Building Images With Packer Aws</title>
+      <link>https://citizix.com/posts/building-images-with-packer-aws/</link>
+      <pubDate>Wed, 10 Feb 2021 18:55:21 +0300</pubDate>
+      
+      <guid>https://citizix.com/posts/building-images-with-packer-aws/</guid>
+      <description>Introduction Packer is an open source tool for creating identical machine images for multiple platforms from a single source configuration.</description>
+    </item>
+    
+    <item>
+      <title>Working With Helm Kubernetes</title>
+      <link>https://citizix.com/posts/working-with-helm-kubernetes/</link>
+      <pubDate>Fri, 05 Feb 2021 14:06:33 +0300</pubDate>
+      
+      <guid>https://citizix.com/posts/working-with-helm-kubernetes/</guid>
+      <description>Introduction Helm is a package manager for kubernetes. Same with rpm or apt.</description>
+    </item>
+    
+    <item>
+      <title>Install Chartmuseum Kubernetes Using Helm</title>
+      <link>https://citizix.com/posts/install-chartmuseum-kubernetes-using-helm/</link>
+      <pubDate>Thu, 04 Feb 2021 17:10:01 +0300</pubDate>
+      
+      <guid>https://citizix.com/posts/install-chartmuseum-kubernetes-using-helm/</guid>
+      <description>Chartmuseum in Kubernetes Add stable repo
+helm repo add stable https://charts.</description>
+    </item>
+    
+    <item>
+      <title>Setup Nginx Ingress With Certbot Letsencrypt in Kubernetes aws</title>
+      <link>https://citizix.com/posts/setup-nginx-ingress-with-certbot-letsencrypt-in-aws-kubenetes/</link>
+      <pubDate>Thu, 04 Feb 2021 09:56:14 +0300</pubDate>
+      
+      <guid>https://citizix.com/posts/setup-nginx-ingress-with-certbot-letsencrypt-in-aws-kubenetes/</guid>
+      <description>Introduction Kubernetes Ingresses allow you to flexibly route traffic from outside your Kubernetes cluster to Services inside of your cluster.</description>
+    </item>
+    
+    <item>
+      <title>Setup Jenkins Kubernetes</title>
+      <link>https://citizix.com/posts/setup-jenkins-kubernetes/</link>
+      <pubDate>Thu, 04 Feb 2021 09:34:00 +0300</pubDate>
+      
+      <guid>https://citizix.com/posts/setup-jenkins-kubernetes/</guid>
+      <description>This guide will help you set up jenkins in kubernetes using helm.</description>
+    </item>
+    
+    <item>
+      <title>Create Kubernetes Cluster Using Kops in AWS</title>
+      <link>https://citizix.com/posts/create-kubernetes-cluster-using-kops/</link>
+      <pubDate>Tue, 02 Feb 2021 15:06:08 +0300</pubDate>
+      
+      <guid>https://citizix.com/posts/create-kubernetes-cluster-using-kops/</guid>
+      <description>In this guide, we are going to create a kubernetes cluster using kops.</description>
+    </item>
+    
+    <item>
+      <title>Provisioning Vagrant Boxes With Ansible</title>
+      <link>https://citizix.com/posts/provisioning-vagrant-boxes-with-ansible/</link>
+      <pubDate>Sun, 31 Jan 2021 11:54:39 +0300</pubDate>
+      
+      <guid>https://citizix.com/posts/provisioning-vagrant-boxes-with-ansible/</guid>
+      <description>Provisioning vagrant boxes with ansible Vagrant Vagrant is an open-source software product for building and maintaining portable virtual software development environments for VirtualBox, KVM, Hyper-V, Docker containers, VMware, and AWS.</description>
+    </item>
+    
+    <item>
+      <title>Vagrant Up and Running</title>
+      <link>https://citizix.com/posts/vagrant-up-and-running/</link>
+      <pubDate>Fri, 29 Jan 2021 10:20:44 +0300</pubDate>
+      
+      <guid>https://citizix.com/posts/vagrant-up-and-running/</guid>
+      <description>Installation Install vagrant in ubuntu 20.04
+sudo apt install -y vagrant To add a box generic/ubuntu2004:</description>
+    </item>
+    
+    <item>
+      <title>Mysql Crud Operations, Backup Restore</title>
+      <link>https://citizix.com/posts/mysql-crud-backup-restore/</link>
+      <pubDate>Tue, 26 Jan 2021 11:09:07 +0300</pubDate>
+      
+      <guid>https://citizix.com/posts/mysql-crud-backup-restore/</guid>
+      <description>Login to mysql server mysql -h 127.0.0.1 -P 13326 Execute mysql query in sql file:</description>
+    </item>
+    
+    <item>
+      <title>Jenkins - Using Cli to manage job and credentials</title>
+      <link>https://citizix.com/posts/jenkins-using-cli/</link>
+      <pubDate>Tue, 26 Jan 2021 09:20:52 +0300</pubDate>
+      
+      <guid>https://citizix.com/posts/jenkins-using-cli/</guid>
+      <description>Jenkins CLI Jenkins has a built-in command line interface that allows users and administrators to access Jenkins from a script or shell environment.</description>
+    </item>
+    
+    <item>
+      <title>Jenkins Add Slave</title>
+      <link>https://citizix.com/posts/jenkins-add-slave/</link>
+      <pubDate>Wed, 13 Jan 2021 15:14:45 +0300</pubDate>
+      
+      <guid>https://citizix.com/posts/jenkins-add-slave/</guid>
+      <description>To add jenkins slave, you need the following:
+ Jenkins server At least one other server to use as slave  On the slave server, ensure java is installed:</description>
+    </item>
+    
+    <item>
+      <title>Install Jenkins in Centos 8</title>
+      <link>https://citizix.com/posts/install-jenkins-in-centos-8/</link>
+      <pubDate>Wed, 13 Jan 2021 11:14:16 +0300</pubDate>
+      
+      <guid>https://citizix.com/posts/install-jenkins-in-centos-8/</guid>
+      <description>Jenkins is a popular opensource automation tool to perform continuous integration and build automation.</description>
+    </item>
+    
+    <item>
+      <title>Kubernetes Hacks</title>
+      <link>https://citizix.com/posts/kubernetes-hacks/</link>
+      <pubDate>Tue, 12 Jan 2021 07:44:45 +0300</pubDate>
+      
+      <guid>https://citizix.com/posts/kubernetes-hacks/</guid>
+      <description>Common Kubernetes Commands and explaination # Switching context in kubernetes to `dev.</description>
+    </item>
+    
+    <item>
+      <title>Postgres Create User, Database and Add Access</title>
+      <link>https://citizix.com/posts/postgres-create-user-database-add-access/</link>
+      <pubDate>Tue, 12 Jan 2021 07:23:07 +0300</pubDate>
+      
+      <guid>https://citizix.com/posts/postgres-create-user-database-add-access/</guid>
+      <description>Introduction Note: This is tested on Centos 8 server running postgres 13.</description>
+    </item>
+    
+    <item>
+      <title>Grafana Loki</title>
+      <link>https://citizix.com/posts/grafana-loki/</link>
+      <pubDate>Tue, 05 Jan 2021 11:24:37 +0300</pubDate>
+      
+      <guid>https://citizix.com/posts/grafana-loki/</guid>
+      <description>Simplest way to run locally is using docker. Loki requires grafana and promtail so this docker-compose file should do.</description>
+    </item>
+    
+    <item>
+      <title>Kubernetes Secrets</title>
+      <link>https://citizix.com/posts/kubernetes-secrets/</link>
+      <pubDate>Thu, 19 Nov 2020 13:12:40 +0300</pubDate>
+      
+      <guid>https://citizix.com/posts/kubernetes-secrets/</guid>
+      <description>Kubernetes Secrets Before you begin, you need to have a Kubernetes cluster, and the kubectl command-line tool must be configured to communicate with your cluster.</description>
+    </item>
+    
+    <item>
+      <title>Arch I3 Fix Open Save File Dialog Too Bix</title>
+      <link>https://citizix.com/posts/arch-i3-fix-open-save-file-dialog-too-bix/</link>
+      <pubDate>Mon, 12 Oct 2020 08:17:25 +0300</pubDate>
+      
+      <guid>https://citizix.com/posts/arch-i3-fix-open-save-file-dialog-too-bix/</guid>
+      <description>Open/Save File dialog not working or too big On a new fresh installation of manjaro i3 windows manager, I had this issue where the open/save file dialog was showing a blank screen.</description>
+    </item>
+    
+    <item>
+      <title>Arch I3 Change Default Browser</title>
+      <link>https://citizix.com/posts/arch-i3-change-default-browser/</link>
+      <pubDate>Mon, 12 Oct 2020 08:14:47 +0300</pubDate>
+      
+      <guid>https://citizix.com/posts/arch-i3-change-default-browser/</guid>
+      <description>The default browser in a new arch linux install is palemoon.</description>
+    </item>
+    
+    <item>
+      <title>Blog With Hugo</title>
+      <link>https://citizix.com/posts/blog-with-hugo/</link>
+      <pubDate>Mon, 12 Oct 2020 08:09:34 +0300</pubDate>
+      
+      <guid>https://citizix.com/posts/blog-with-hugo/</guid>
+      <description>Hugo Hugo is a static file generator. It allows you to write your content in markdown then generates it into a blog or site.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>kops on Citizix - The Devops Experiences</title>
+    <link>https://citizix.com/tags/kops/</link>
+    <description>Recent content in kops on Citizix - The Devops Experiences</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 02 Feb 2021 15:06:08 +0300</lastBuildDate><atom:link href="https://citizix.com/tags/kops/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Create Kubernetes Cluster Using Kops in AWS</title>
+      <link>https://citizix.com/posts/create-kubernetes-cluster-using-kops/</link>
+      <pubDate>Tue, 02 Feb 2021 15:06:08 +0300</pubDate>
+      
+      <guid>https://citizix.com/posts/create-kubernetes-cluster-using-kops/</guid>
+      <description>In this guide, we are going to create a kubernetes cluster using kops.</description>
+    </item>
+    
+  </channel>
+</rss>

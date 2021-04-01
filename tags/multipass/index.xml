@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>multipass on Citizix - The Devops Experiences</title>
+    <link>https://citizix.com/tags/multipass/</link>
+    <description>Recent content in multipass on Citizix - The Devops Experiences</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 25 Feb 2021 10:39:29 +0300</lastBuildDate><atom:link href="https://citizix.com/tags/multipass/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Local Kubernetes With Multipass</title>
+      <link>https://citizix.com/posts/local-kubernetes-with-multipass/</link>
+      <pubDate>Thu, 25 Feb 2021 10:39:29 +0300</pubDate>
+      
+      <guid>https://citizix.com/posts/local-kubernetes-with-multipass/</guid>
+      <description>Install multipass:
+brew install multipass Create a multipass vm
+multipass launch --name k3s --cpus 3 --mem 4g --disk 20g Get Info</description>
+    </item>
+    
+  </channel>
+</rss>

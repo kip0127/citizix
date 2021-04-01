@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>kubernetes on Citizix - The Devops Experiences</title>
+    <link>https://citizix.com/tags/kubernetes/</link>
+    <description>Recent content in kubernetes on Citizix - The Devops Experiences</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 30 Mar 2021 22:00:16 +0300</lastBuildDate><atom:link href="https://citizix.com/tags/kubernetes/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Up and Running With Kaniko</title>
+      <link>https://citizix.com/posts/up-and-running-with-kaniko/</link>
+      <pubDate>Tue, 30 Mar 2021 22:00:16 +0300</pubDate>
+      
+      <guid>https://citizix.com/posts/up-and-running-with-kaniko/</guid>
+      <description>Kaniko - Building container images without docker daemon Kaniko, is an open-source tool for building container images from a Dockerfile inside a container or Kubernetes cluster.</description>
+    </item>
+    
+    <item>
+      <title>Local Kubernetes With Multipass</title>
+      <link>https://citizix.com/posts/local-kubernetes-with-multipass/</link>
+      <pubDate>Thu, 25 Feb 2021 10:39:29 +0300</pubDate>
+      
+      <guid>https://citizix.com/posts/local-kubernetes-with-multipass/</guid>
+      <description>Install multipass:
+brew install multipass Create a multipass vm
+multipass launch --name k3s --cpus 3 --mem 4g --disk 20g Get Info</description>
+    </item>
+    
+    <item>
+      <title>Setup Nginx Ingress With Certbot Letsencrypt in Kubernetes aws</title>
+      <link>https://citizix.com/posts/setup-nginx-ingress-with-certbot-letsencrypt-in-aws-kubenetes/</link>
+      <pubDate>Thu, 04 Feb 2021 09:56:14 +0300</pubDate>
+      
+      <guid>https://citizix.com/posts/setup-nginx-ingress-with-certbot-letsencrypt-in-aws-kubenetes/</guid>
+      <description>Introduction Kubernetes Ingresses allow you to flexibly route traffic from outside your Kubernetes cluster to Services inside of your cluster.</description>
+    </item>
+    
+    <item>
+      <title>Create Kubernetes Cluster Using Kops in AWS</title>
+      <link>https://citizix.com/posts/create-kubernetes-cluster-using-kops/</link>
+      <pubDate>Tue, 02 Feb 2021 15:06:08 +0300</pubDate>
+      
+      <guid>https://citizix.com/posts/create-kubernetes-cluster-using-kops/</guid>
+      <description>In this guide, we are going to create a kubernetes cluster using kops.</description>
+    </item>
+    
+    <item>
+      <title>Kubernetes Hacks</title>
+      <link>https://citizix.com/posts/kubernetes-hacks/</link>
+      <pubDate>Tue, 12 Jan 2021 07:44:45 +0300</pubDate>
+      
+      <guid>https://citizix.com/posts/kubernetes-hacks/</guid>
+      <description>Common Kubernetes Commands and explaination # Switching context in kubernetes to `dev.</description>
+    </item>
+    
+    <item>
+      <title>Kubernetes Secrets</title>
+      <link>https://citizix.com/posts/kubernetes-secrets/</link>
+      <pubDate>Thu, 19 Nov 2020 13:12:40 +0300</pubDate>
+      
+      <guid>https://citizix.com/posts/kubernetes-secrets/</guid>
+      <description>Kubernetes Secrets Before you begin, you need to have a Kubernetes cluster, and the kubectl command-line tool must be configured to communicate with your cluster.</description>
+    </item>
+    
+  </channel>
+</rss>

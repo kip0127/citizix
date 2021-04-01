@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>mariadb on Citizix - The Devops Experiences</title>
+    <link>https://citizix.com/tags/mariadb/</link>
+    <description>Recent content in mariadb on Citizix - The Devops Experiences</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 17 Mar 2021 20:22:53 +0300</lastBuildDate><atom:link href="https://citizix.com/tags/mariadb/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Create Mysql User and Grant Permissions</title>
+      <link>https://citizix.com/posts/create-mysql-user-and-grant-permissions/</link>
+      <pubDate>Wed, 17 Mar 2021 20:22:53 +0300</pubDate>
+      
+      <guid>https://citizix.com/posts/create-mysql-user-and-grant-permissions/</guid>
+      <description>Introduction MySQL is the most popular open-source relational database management system.</description>
+    </item>
+    
+  </channel>
+</rss>

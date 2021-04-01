@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>arch-linux on Citizix - The Devops Experiences</title>
+    <link>https://citizix.com/tags/arch-linux/</link>
+    <description>Recent content in arch-linux on Citizix - The Devops Experiences</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 12 Oct 2020 08:17:25 +0300</lastBuildDate><atom:link href="https://citizix.com/tags/arch-linux/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Arch I3 Fix Open Save File Dialog Too Bix</title>
+      <link>https://citizix.com/posts/arch-i3-fix-open-save-file-dialog-too-bix/</link>
+      <pubDate>Mon, 12 Oct 2020 08:17:25 +0300</pubDate>
+      
+      <guid>https://citizix.com/posts/arch-i3-fix-open-save-file-dialog-too-bix/</guid>
+      <description>Open/Save File dialog not working or too big On a new fresh installation of manjaro i3 windows manager, I had this issue where the open/save file dialog was showing a blank screen.</description>
+    </item>
+    
+    <item>
+      <title>Arch I3 Change Default Browser</title>
+      <link>https://citizix.com/posts/arch-i3-change-default-browser/</link>
+      <pubDate>Mon, 12 Oct 2020 08:14:47 +0300</pubDate>
+      
+      <guid>https://citizix.com/posts/arch-i3-change-default-browser/</guid>
+      <description>The default browser in a new arch linux install is palemoon.</description>
+    </item>
+    
+  </channel>
+</rss>

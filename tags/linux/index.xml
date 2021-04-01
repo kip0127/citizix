@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>linux on Citizix - The Devops Experiences</title>
+    <link>https://citizix.com/tags/linux/</link>
+    <description>Recent content in linux on Citizix - The Devops Experiences</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 10 Feb 2021 22:02:31 +0300</lastBuildDate><atom:link href="https://citizix.com/tags/linux/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Linux Find Command</title>
+      <link>https://citizix.com/posts/linux-find-command/</link>
+      <pubDate>Wed, 10 Feb 2021 22:02:31 +0300</pubDate>
+      
+      <guid>https://citizix.com/posts/linux-find-command/</guid>
+      <description>The Linux find command is a built in powerful tool that can be used to locate and manage files and directories based on a wide range of search criteria.</description>
+    </item>
+    
+    <item>
+      <title>Using Mail Command Linux</title>
+      <link>https://citizix.com/posts/using-mail-command-linux/</link>
+      <pubDate>Wed, 10 Feb 2021 19:50:05 +0300</pubDate>
+      
+      <guid>https://citizix.com/posts/using-mail-command-linux/</guid>
+      <description>Linux mail command Mail command
+mail -s &amp;#34;Test mail&amp;#34; johndoe@example.com Send message from a file</description>
+    </item>
+    
+  </channel>
+</rss>
