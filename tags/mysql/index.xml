@@ -2,26 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>mysql on Citizix - The Devops Experiences</title>
-    <link>https://citizix.com/tags/mysql/</link>
+    <link>https://citizix-blog-site.onrender.com/tags/mysql/</link>
     <description>Recent content in mysql on Citizix - The Devops Experiences</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 17 Mar 2021 20:22:53 +0300</lastBuildDate><atom:link href="https://citizix.com/tags/mysql/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 17 Mar 2021 20:22:53 +0300</lastBuildDate><atom:link href="https://citizix-blog-site.onrender.com/tags/mysql/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Create Mysql User and Grant Permissions</title>
-      <link>https://citizix.com/posts/create-mysql-user-and-grant-permissions/</link>
+      <link>https://citizix-blog-site.onrender.com/posts/create-mysql-user-and-grant-permissions/</link>
       <pubDate>Wed, 17 Mar 2021 20:22:53 +0300</pubDate>
       
-      <guid>https://citizix.com/posts/create-mysql-user-and-grant-permissions/</guid>
+      <guid>https://citizix-blog-site.onrender.com/posts/create-mysql-user-and-grant-permissions/</guid>
       <description>Introduction MySQL is the most popular open-source relational database management system.</description>
     </item>
     
     <item>
       <title>Mysql Crud Operations, Backup Restore</title>
-      <link>https://citizix.com/posts/mysql-crud-backup-restore/</link>
+      <link>https://citizix-blog-site.onrender.com/posts/mysql-crud-backup-restore/</link>
       <pubDate>Tue, 26 Jan 2021 11:09:07 +0300</pubDate>
       
-      <guid>https://citizix.com/posts/mysql-crud-backup-restore/</guid>
+      <guid>https://citizix-blog-site.onrender.com/posts/mysql-crud-backup-restore/</guid>
       <description>Login to mysql server mysql -h 127.0.0.1 -P 13326 Execute mysql query in sql file:</description>
     </item>
     

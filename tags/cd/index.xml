@@ -2,36 +2,36 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>cd on Citizix - The Devops Experiences</title>
-    <link>https://citizix.com/tags/cd/</link>
+    <link>https://citizix-blog-site.onrender.com/tags/cd/</link>
     <description>Recent content in cd on Citizix - The Devops Experiences</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 26 Jan 2021 09:20:52 +0300</lastBuildDate><atom:link href="https://citizix.com/tags/cd/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 26 Jan 2021 09:20:52 +0300</lastBuildDate><atom:link href="https://citizix-blog-site.onrender.com/tags/cd/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Jenkins - Using Cli to manage job and credentials</title>
-      <link>https://citizix.com/posts/jenkins-using-cli/</link>
+      <link>https://citizix-blog-site.onrender.com/posts/jenkins-using-cli/</link>
       <pubDate>Tue, 26 Jan 2021 09:20:52 +0300</pubDate>
       
-      <guid>https://citizix.com/posts/jenkins-using-cli/</guid>
+      <guid>https://citizix-blog-site.onrender.com/posts/jenkins-using-cli/</guid>
       <description>Jenkins CLI Jenkins has a built-in command line interface that allows users and administrators to access Jenkins from a script or shell environment.</description>
     </item>
     
     <item>
       <title>Jenkins Add Slave</title>
-      <link>https://citizix.com/posts/jenkins-add-slave/</link>
+      <link>https://citizix-blog-site.onrender.com/posts/jenkins-add-slave/</link>
       <pubDate>Wed, 13 Jan 2021 15:14:45 +0300</pubDate>
       
-      <guid>https://citizix.com/posts/jenkins-add-slave/</guid>
+      <guid>https://citizix-blog-site.onrender.com/posts/jenkins-add-slave/</guid>
       <description>To add jenkins slave, you need the following:
  Jenkins server At least one other server to use as slave  On the slave server, ensure java is installed:</description>
     </item>
     
     <item>
       <title>Install Jenkins in Centos 8</title>
-      <link>https://citizix.com/posts/install-jenkins-in-centos-8/</link>
+      <link>https://citizix-blog-site.onrender.com/posts/install-jenkins-in-centos-8/</link>
       <pubDate>Wed, 13 Jan 2021 11:14:16 +0300</pubDate>
       
-      <guid>https://citizix.com/posts/install-jenkins-in-centos-8/</guid>
+      <guid>https://citizix-blog-site.onrender.com/posts/install-jenkins-in-centos-8/</guid>
       <description>Jenkins is a popular opensource automation tool to perform continuous integration and build automation.</description>
     </item>
     

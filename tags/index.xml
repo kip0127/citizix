@@ -2,260 +2,260 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Citizix - The Devops Experiences</title>
-    <link>https://citizix.com/tags/</link>
+    <link>https://citizix-blog-site.onrender.com/tags/</link>
     <description>Recent content in Tags on Citizix - The Devops Experiences</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 30 Mar 2021 22:00:16 +0300</lastBuildDate><atom:link href="https://citizix.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 30 Mar 2021 22:00:16 +0300</lastBuildDate><atom:link href="https://citizix-blog-site.onrender.com/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>kaniko</title>
-      <link>https://citizix.com/tags/kaniko/</link>
+      <link>https://citizix-blog-site.onrender.com/tags/kaniko/</link>
       <pubDate>Tue, 30 Mar 2021 22:00:16 +0300</pubDate>
       
-      <guid>https://citizix.com/tags/kaniko/</guid>
+      <guid>https://citizix-blog-site.onrender.com/tags/kaniko/</guid>
       <description></description>
     </item>
     
     <item>
       <title>kubernetes</title>
-      <link>https://citizix.com/tags/kubernetes/</link>
+      <link>https://citizix-blog-site.onrender.com/tags/kubernetes/</link>
       <pubDate>Tue, 30 Mar 2021 22:00:16 +0300</pubDate>
       
-      <guid>https://citizix.com/tags/kubernetes/</guid>
+      <guid>https://citizix-blog-site.onrender.com/tags/kubernetes/</guid>
       <description></description>
     </item>
     
     <item>
       <title>cassandra</title>
-      <link>https://citizix.com/tags/cassandra/</link>
+      <link>https://citizix-blog-site.onrender.com/tags/cassandra/</link>
       <pubDate>Wed, 24 Mar 2021 18:13:08 +0300</pubDate>
       
-      <guid>https://citizix.com/tags/cassandra/</guid>
+      <guid>https://citizix-blog-site.onrender.com/tags/cassandra/</guid>
       <description></description>
     </item>
     
     <item>
       <title>mariadb</title>
-      <link>https://citizix.com/tags/mariadb/</link>
+      <link>https://citizix-blog-site.onrender.com/tags/mariadb/</link>
       <pubDate>Wed, 17 Mar 2021 20:22:53 +0300</pubDate>
       
-      <guid>https://citizix.com/tags/mariadb/</guid>
+      <guid>https://citizix-blog-site.onrender.com/tags/mariadb/</guid>
       <description></description>
     </item>
     
     <item>
       <title>mysql</title>
-      <link>https://citizix.com/tags/mysql/</link>
+      <link>https://citizix-blog-site.onrender.com/tags/mysql/</link>
       <pubDate>Wed, 17 Mar 2021 20:22:53 +0300</pubDate>
       
-      <guid>https://citizix.com/tags/mysql/</guid>
+      <guid>https://citizix-blog-site.onrender.com/tags/mysql/</guid>
       <description></description>
     </item>
     
     <item>
       <title>multipass</title>
-      <link>https://citizix.com/tags/multipass/</link>
+      <link>https://citizix-blog-site.onrender.com/tags/multipass/</link>
       <pubDate>Thu, 25 Feb 2021 10:39:29 +0300</pubDate>
       
-      <guid>https://citizix.com/tags/multipass/</guid>
+      <guid>https://citizix-blog-site.onrender.com/tags/multipass/</guid>
       <description></description>
     </item>
     
     <item>
       <title>find</title>
-      <link>https://citizix.com/tags/find/</link>
+      <link>https://citizix-blog-site.onrender.com/tags/find/</link>
       <pubDate>Wed, 10 Feb 2021 22:02:31 +0300</pubDate>
       
-      <guid>https://citizix.com/tags/find/</guid>
+      <guid>https://citizix-blog-site.onrender.com/tags/find/</guid>
       <description></description>
     </item>
     
     <item>
       <title>linux</title>
-      <link>https://citizix.com/tags/linux/</link>
+      <link>https://citizix-blog-site.onrender.com/tags/linux/</link>
       <pubDate>Wed, 10 Feb 2021 22:02:31 +0300</pubDate>
       
-      <guid>https://citizix.com/tags/linux/</guid>
+      <guid>https://citizix-blog-site.onrender.com/tags/linux/</guid>
       <description></description>
     </item>
     
     <item>
       <title>mail</title>
-      <link>https://citizix.com/tags/mail/</link>
+      <link>https://citizix-blog-site.onrender.com/tags/mail/</link>
       <pubDate>Wed, 10 Feb 2021 19:50:05 +0300</pubDate>
       
-      <guid>https://citizix.com/tags/mail/</guid>
+      <guid>https://citizix-blog-site.onrender.com/tags/mail/</guid>
       <description></description>
     </item>
     
     <item>
       <title>postgres</title>
-      <link>https://citizix.com/tags/postgres/</link>
+      <link>https://citizix-blog-site.onrender.com/tags/postgres/</link>
       <pubDate>Wed, 10 Feb 2021 19:26:36 +0300</pubDate>
       
-      <guid>https://citizix.com/tags/postgres/</guid>
+      <guid>https://citizix-blog-site.onrender.com/tags/postgres/</guid>
       <description></description>
     </item>
     
     <item>
       <title>packer</title>
-      <link>https://citizix.com/tags/packer/</link>
+      <link>https://citizix-blog-site.onrender.com/tags/packer/</link>
       <pubDate>Wed, 10 Feb 2021 18:55:21 +0300</pubDate>
       
-      <guid>https://citizix.com/tags/packer/</guid>
+      <guid>https://citizix-blog-site.onrender.com/tags/packer/</guid>
       <description></description>
     </item>
     
     <item>
       <title>helm</title>
-      <link>https://citizix.com/tags/helm/</link>
+      <link>https://citizix-blog-site.onrender.com/tags/helm/</link>
       <pubDate>Fri, 05 Feb 2021 14:06:33 +0300</pubDate>
       
-      <guid>https://citizix.com/tags/helm/</guid>
+      <guid>https://citizix-blog-site.onrender.com/tags/helm/</guid>
       <description></description>
     </item>
     
     <item>
       <title>k8s</title>
-      <link>https://citizix.com/tags/k8s/</link>
+      <link>https://citizix-blog-site.onrender.com/tags/k8s/</link>
       <pubDate>Fri, 05 Feb 2021 14:06:33 +0300</pubDate>
       
-      <guid>https://citizix.com/tags/k8s/</guid>
+      <guid>https://citizix-blog-site.onrender.com/tags/k8s/</guid>
       <description></description>
     </item>
     
     <item>
       <title>letsencrypt</title>
-      <link>https://citizix.com/tags/letsencrypt/</link>
+      <link>https://citizix-blog-site.onrender.com/tags/letsencrypt/</link>
       <pubDate>Thu, 04 Feb 2021 09:56:14 +0300</pubDate>
       
-      <guid>https://citizix.com/tags/letsencrypt/</guid>
+      <guid>https://citizix-blog-site.onrender.com/tags/letsencrypt/</guid>
       <description></description>
     </item>
     
     <item>
       <title>jenkins</title>
-      <link>https://citizix.com/tags/jenkins/</link>
+      <link>https://citizix-blog-site.onrender.com/tags/jenkins/</link>
       <pubDate>Thu, 04 Feb 2021 09:34:00 +0300</pubDate>
       
-      <guid>https://citizix.com/tags/jenkins/</guid>
+      <guid>https://citizix-blog-site.onrender.com/tags/jenkins/</guid>
       <description></description>
     </item>
     
     <item>
       <title>kubertenes</title>
-      <link>https://citizix.com/tags/kubertenes/</link>
+      <link>https://citizix-blog-site.onrender.com/tags/kubertenes/</link>
       <pubDate>Thu, 04 Feb 2021 09:34:00 +0300</pubDate>
       
-      <guid>https://citizix.com/tags/kubertenes/</guid>
+      <guid>https://citizix-blog-site.onrender.com/tags/kubertenes/</guid>
       <description></description>
     </item>
     
     <item>
       <title>aws</title>
-      <link>https://citizix.com/tags/aws/</link>
+      <link>https://citizix-blog-site.onrender.com/tags/aws/</link>
       <pubDate>Tue, 02 Feb 2021 15:06:08 +0300</pubDate>
       
-      <guid>https://citizix.com/tags/aws/</guid>
+      <guid>https://citizix-blog-site.onrender.com/tags/aws/</guid>
       <description></description>
     </item>
     
     <item>
       <title>kops</title>
-      <link>https://citizix.com/tags/kops/</link>
+      <link>https://citizix-blog-site.onrender.com/tags/kops/</link>
       <pubDate>Tue, 02 Feb 2021 15:06:08 +0300</pubDate>
       
-      <guid>https://citizix.com/tags/kops/</guid>
+      <guid>https://citizix-blog-site.onrender.com/tags/kops/</guid>
       <description></description>
     </item>
     
     <item>
       <title>ansible</title>
-      <link>https://citizix.com/tags/ansible/</link>
+      <link>https://citizix-blog-site.onrender.com/tags/ansible/</link>
       <pubDate>Sun, 31 Jan 2021 11:54:39 +0300</pubDate>
       
-      <guid>https://citizix.com/tags/ansible/</guid>
+      <guid>https://citizix-blog-site.onrender.com/tags/ansible/</guid>
       <description></description>
     </item>
     
     <item>
       <title>vagrant</title>
-      <link>https://citizix.com/tags/vagrant/</link>
+      <link>https://citizix-blog-site.onrender.com/tags/vagrant/</link>
       <pubDate>Sun, 31 Jan 2021 11:54:39 +0300</pubDate>
       
-      <guid>https://citizix.com/tags/vagrant/</guid>
+      <guid>https://citizix-blog-site.onrender.com/tags/vagrant/</guid>
       <description></description>
     </item>
     
     <item>
       <title>cd</title>
-      <link>https://citizix.com/tags/cd/</link>
+      <link>https://citizix-blog-site.onrender.com/tags/cd/</link>
       <pubDate>Tue, 26 Jan 2021 09:20:52 +0300</pubDate>
       
-      <guid>https://citizix.com/tags/cd/</guid>
+      <guid>https://citizix-blog-site.onrender.com/tags/cd/</guid>
       <description></description>
     </item>
     
     <item>
       <title>ci</title>
-      <link>https://citizix.com/tags/ci/</link>
+      <link>https://citizix-blog-site.onrender.com/tags/ci/</link>
       <pubDate>Tue, 26 Jan 2021 09:20:52 +0300</pubDate>
       
-      <guid>https://citizix.com/tags/ci/</guid>
+      <guid>https://citizix-blog-site.onrender.com/tags/ci/</guid>
       <description></description>
     </item>
     
     <item>
       <title>grafana</title>
-      <link>https://citizix.com/tags/grafana/</link>
+      <link>https://citizix-blog-site.onrender.com/tags/grafana/</link>
       <pubDate>Tue, 05 Jan 2021 11:24:37 +0300</pubDate>
       
-      <guid>https://citizix.com/tags/grafana/</guid>
+      <guid>https://citizix-blog-site.onrender.com/tags/grafana/</guid>
       <description></description>
     </item>
     
     <item>
       <title>loki</title>
-      <link>https://citizix.com/tags/loki/</link>
+      <link>https://citizix-blog-site.onrender.com/tags/loki/</link>
       <pubDate>Tue, 05 Jan 2021 11:24:37 +0300</pubDate>
       
-      <guid>https://citizix.com/tags/loki/</guid>
+      <guid>https://citizix-blog-site.onrender.com/tags/loki/</guid>
       <description></description>
     </item>
     
     <item>
       <title>arch-linux</title>
-      <link>https://citizix.com/tags/arch-linux/</link>
+      <link>https://citizix-blog-site.onrender.com/tags/arch-linux/</link>
       <pubDate>Mon, 12 Oct 2020 08:17:25 +0300</pubDate>
       
-      <guid>https://citizix.com/tags/arch-linux/</guid>
+      <guid>https://citizix-blog-site.onrender.com/tags/arch-linux/</guid>
       <description></description>
     </item>
     
     <item>
       <title>i3</title>
-      <link>https://citizix.com/tags/i3/</link>
+      <link>https://citizix-blog-site.onrender.com/tags/i3/</link>
       <pubDate>Mon, 12 Oct 2020 08:17:25 +0300</pubDate>
       
-      <guid>https://citizix.com/tags/i3/</guid>
+      <guid>https://citizix-blog-site.onrender.com/tags/i3/</guid>
       <description></description>
     </item>
     
     <item>
       <title>blog</title>
-      <link>https://citizix.com/tags/blog/</link>
+      <link>https://citizix-blog-site.onrender.com/tags/blog/</link>
       <pubDate>Mon, 12 Oct 2020 08:09:34 +0300</pubDate>
       
-      <guid>https://citizix.com/tags/blog/</guid>
+      <guid>https://citizix-blog-site.onrender.com/tags/blog/</guid>
       <description></description>
     </item>
     
     <item>
       <title>hugo</title>
-      <link>https://citizix.com/tags/hugo/</link>
+      <link>https://citizix-blog-site.onrender.com/tags/hugo/</link>
       <pubDate>Mon, 12 Oct 2020 08:09:34 +0300</pubDate>
       
-      <guid>https://citizix.com/tags/hugo/</guid>
+      <guid>https://citizix-blog-site.onrender.com/tags/hugo/</guid>
       <description></description>
     </item>
     

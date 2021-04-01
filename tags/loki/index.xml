@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>loki on Citizix - The Devops Experiences</title>
-    <link>https://citizix.com/tags/loki/</link>
+    <link>https://citizix-blog-site.onrender.com/tags/loki/</link>
     <description>Recent content in loki on Citizix - The Devops Experiences</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 05 Jan 2021 11:24:37 +0300</lastBuildDate><atom:link href="https://citizix.com/tags/loki/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 05 Jan 2021 11:24:37 +0300</lastBuildDate><atom:link href="https://citizix-blog-site.onrender.com/tags/loki/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Grafana Loki</title>
-      <link>https://citizix.com/posts/grafana-loki/</link>
+      <link>https://citizix-blog-site.onrender.com/posts/grafana-loki/</link>
       <pubDate>Tue, 05 Jan 2021 11:24:37 +0300</pubDate>
       
-      <guid>https://citizix.com/posts/grafana-loki/</guid>
+      <guid>https://citizix-blog-site.onrender.com/posts/grafana-loki/</guid>
       <description>Simplest way to run locally is using docker. Loki requires grafana and promtail so this docker-compose file should do.</description>
     </item>
     

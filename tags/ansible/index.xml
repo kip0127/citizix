@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>ansible on Citizix - The Devops Experiences</title>
-    <link>https://citizix.com/tags/ansible/</link>
+    <link>https://citizix-blog-site.onrender.com/tags/ansible/</link>
     <description>Recent content in ansible on Citizix - The Devops Experiences</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 31 Jan 2021 11:54:39 +0300</lastBuildDate><atom:link href="https://citizix.com/tags/ansible/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 31 Jan 2021 11:54:39 +0300</lastBuildDate><atom:link href="https://citizix-blog-site.onrender.com/tags/ansible/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Provisioning Vagrant Boxes With Ansible</title>
-      <link>https://citizix.com/posts/provisioning-vagrant-boxes-with-ansible/</link>
+      <link>https://citizix-blog-site.onrender.com/posts/provisioning-vagrant-boxes-with-ansible/</link>
       <pubDate>Sun, 31 Jan 2021 11:54:39 +0300</pubDate>
       
-      <guid>https://citizix.com/posts/provisioning-vagrant-boxes-with-ansible/</guid>
+      <guid>https://citizix-blog-site.onrender.com/posts/provisioning-vagrant-boxes-with-ansible/</guid>
       <description>Provisioning vagrant boxes with ansible Vagrant Vagrant is an open-source software product for building and maintaining portable virtual software development environments for VirtualBox, KVM, Hyper-V, Docker containers, VMware, and AWS.</description>
     </item>
     

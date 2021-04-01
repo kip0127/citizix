@@ -3,292 +3,292 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://citizix.com/</loc>
+    <loc>https://citizix-blog-site.onrender.com/</loc>
     <lastmod>2021-03-30T22:00:16+03:00</lastmod>
   </url>
   
   <url>
-    <loc>https://citizix.com/tags/kaniko/</loc>
+    <loc>https://citizix-blog-site.onrender.com/tags/kaniko/</loc>
     <lastmod>2021-03-30T22:00:16+03:00</lastmod>
   </url>
   
   <url>
-    <loc>https://citizix.com/tags/kubernetes/</loc>
+    <loc>https://citizix-blog-site.onrender.com/tags/kubernetes/</loc>
     <lastmod>2021-03-30T22:00:16+03:00</lastmod>
   </url>
   
   <url>
-    <loc>https://citizix.com/posts/</loc>
+    <loc>https://citizix-blog-site.onrender.com/posts/</loc>
     <lastmod>2021-03-30T22:00:16+03:00</lastmod>
   </url>
   
   <url>
-    <loc>https://citizix.com/tags/</loc>
+    <loc>https://citizix-blog-site.onrender.com/tags/</loc>
     <lastmod>2021-03-30T22:00:16+03:00</lastmod>
   </url>
   
   <url>
-    <loc>https://citizix.com/posts/up-and-running-with-kaniko/</loc>
+    <loc>https://citizix-blog-site.onrender.com/posts/up-and-running-with-kaniko/</loc>
     <lastmod>2021-03-30T22:00:16+03:00</lastmod>
   </url>
   
   <url>
-    <loc>https://citizix.com/tags/cassandra/</loc>
+    <loc>https://citizix-blog-site.onrender.com/tags/cassandra/</loc>
     <lastmod>2021-03-24T18:13:08+03:00</lastmod>
   </url>
   
   <url>
-    <loc>https://citizix.com/posts/create-cassandra-user-and-grant-permissions/</loc>
+    <loc>https://citizix-blog-site.onrender.com/posts/create-cassandra-user-and-grant-permissions/</loc>
     <lastmod>2021-03-24T18:13:08+03:00</lastmod>
   </url>
   
   <url>
-    <loc>https://citizix.com/posts/create-mysql-user-and-grant-permissions/</loc>
+    <loc>https://citizix-blog-site.onrender.com/posts/create-mysql-user-and-grant-permissions/</loc>
     <lastmod>2021-03-17T20:22:53+03:00</lastmod>
   </url>
   
   <url>
-    <loc>https://citizix.com/tags/mariadb/</loc>
+    <loc>https://citizix-blog-site.onrender.com/tags/mariadb/</loc>
     <lastmod>2021-03-17T20:22:53+03:00</lastmod>
   </url>
   
   <url>
-    <loc>https://citizix.com/tags/mysql/</loc>
+    <loc>https://citizix-blog-site.onrender.com/tags/mysql/</loc>
     <lastmod>2021-03-17T20:22:53+03:00</lastmod>
   </url>
   
   <url>
-    <loc>https://citizix.com/posts/local-kubernetes-with-multipass/</loc>
+    <loc>https://citizix-blog-site.onrender.com/posts/local-kubernetes-with-multipass/</loc>
     <lastmod>2021-02-25T10:39:29+03:00</lastmod>
   </url>
   
   <url>
-    <loc>https://citizix.com/tags/multipass/</loc>
+    <loc>https://citizix-blog-site.onrender.com/tags/multipass/</loc>
     <lastmod>2021-02-25T10:39:29+03:00</lastmod>
   </url>
   
   <url>
-    <loc>https://citizix.com/tags/find/</loc>
+    <loc>https://citizix-blog-site.onrender.com/tags/find/</loc>
     <lastmod>2021-02-10T22:02:31+03:00</lastmod>
   </url>
   
   <url>
-    <loc>https://citizix.com/tags/linux/</loc>
+    <loc>https://citizix-blog-site.onrender.com/tags/linux/</loc>
     <lastmod>2021-02-10T22:02:31+03:00</lastmod>
   </url>
   
   <url>
-    <loc>https://citizix.com/posts/linux-find-command/</loc>
+    <loc>https://citizix-blog-site.onrender.com/posts/linux-find-command/</loc>
     <lastmod>2021-02-10T22:02:31+03:00</lastmod>
   </url>
   
   <url>
-    <loc>https://citizix.com/tags/mail/</loc>
+    <loc>https://citizix-blog-site.onrender.com/tags/mail/</loc>
     <lastmod>2021-02-10T19:50:05+03:00</lastmod>
   </url>
   
   <url>
-    <loc>https://citizix.com/posts/using-mail-command-linux/</loc>
+    <loc>https://citizix-blog-site.onrender.com/posts/using-mail-command-linux/</loc>
     <lastmod>2021-02-10T19:50:05+03:00</lastmod>
   </url>
   
   <url>
-    <loc>https://citizix.com/posts/backup-and-restore-postgres-database/</loc>
+    <loc>https://citizix-blog-site.onrender.com/posts/backup-and-restore-postgres-database/</loc>
     <lastmod>2021-02-10T19:26:36+03:00</lastmod>
   </url>
   
   <url>
-    <loc>https://citizix.com/tags/postgres/</loc>
+    <loc>https://citizix-blog-site.onrender.com/tags/postgres/</loc>
     <lastmod>2021-02-10T19:26:36+03:00</lastmod>
   </url>
   
   <url>
-    <loc>https://citizix.com/posts/working-with-ssh-keys/</loc>
+    <loc>https://citizix-blog-site.onrender.com/posts/working-with-ssh-keys/</loc>
     <lastmod>2021-02-10T19:18:36+03:00</lastmod>
   </url>
   
   <url>
-    <loc>https://citizix.com/posts/building-images-with-packer-aws/</loc>
+    <loc>https://citizix-blog-site.onrender.com/posts/building-images-with-packer-aws/</loc>
     <lastmod>2021-02-10T18:55:21+03:00</lastmod>
   </url>
   
   <url>
-    <loc>https://citizix.com/tags/packer/</loc>
+    <loc>https://citizix-blog-site.onrender.com/tags/packer/</loc>
     <lastmod>2021-02-10T18:55:21+03:00</lastmod>
   </url>
   
   <url>
-    <loc>https://citizix.com/tags/helm/</loc>
+    <loc>https://citizix-blog-site.onrender.com/tags/helm/</loc>
     <lastmod>2021-02-05T14:06:33+03:00</lastmod>
   </url>
   
   <url>
-    <loc>https://citizix.com/tags/k8s/</loc>
+    <loc>https://citizix-blog-site.onrender.com/tags/k8s/</loc>
     <lastmod>2021-02-05T14:06:33+03:00</lastmod>
   </url>
   
   <url>
-    <loc>https://citizix.com/posts/working-with-helm-kubernetes/</loc>
+    <loc>https://citizix-blog-site.onrender.com/posts/working-with-helm-kubernetes/</loc>
     <lastmod>2021-02-05T14:06:33+03:00</lastmod>
   </url>
   
   <url>
-    <loc>https://citizix.com/posts/install-chartmuseum-kubernetes-using-helm/</loc>
+    <loc>https://citizix-blog-site.onrender.com/posts/install-chartmuseum-kubernetes-using-helm/</loc>
     <lastmod>2021-02-04T17:10:01+03:00</lastmod>
   </url>
   
   <url>
-    <loc>https://citizix.com/tags/letsencrypt/</loc>
+    <loc>https://citizix-blog-site.onrender.com/tags/letsencrypt/</loc>
     <lastmod>2021-02-04T09:56:14+03:00</lastmod>
   </url>
   
   <url>
-    <loc>https://citizix.com/posts/setup-nginx-ingress-with-certbot-letsencrypt-in-aws-kubenetes/</loc>
+    <loc>https://citizix-blog-site.onrender.com/posts/setup-nginx-ingress-with-certbot-letsencrypt-in-aws-kubenetes/</loc>
     <lastmod>2021-02-04T09:56:14+03:00</lastmod>
   </url>
   
   <url>
-    <loc>https://citizix.com/tags/jenkins/</loc>
+    <loc>https://citizix-blog-site.onrender.com/tags/jenkins/</loc>
     <lastmod>2021-02-04T09:34:00+03:00</lastmod>
   </url>
   
   <url>
-    <loc>https://citizix.com/tags/kubertenes/</loc>
+    <loc>https://citizix-blog-site.onrender.com/tags/kubertenes/</loc>
     <lastmod>2021-02-04T09:34:00+03:00</lastmod>
   </url>
   
   <url>
-    <loc>https://citizix.com/posts/setup-jenkins-kubernetes/</loc>
+    <loc>https://citizix-blog-site.onrender.com/posts/setup-jenkins-kubernetes/</loc>
     <lastmod>2021-02-04T09:34:00+03:00</lastmod>
   </url>
   
   <url>
-    <loc>https://citizix.com/tags/aws/</loc>
+    <loc>https://citizix-blog-site.onrender.com/tags/aws/</loc>
     <lastmod>2021-02-02T15:06:08+03:00</lastmod>
   </url>
   
   <url>
-    <loc>https://citizix.com/posts/create-kubernetes-cluster-using-kops/</loc>
+    <loc>https://citizix-blog-site.onrender.com/posts/create-kubernetes-cluster-using-kops/</loc>
     <lastmod>2021-02-02T15:06:08+03:00</lastmod>
   </url>
   
   <url>
-    <loc>https://citizix.com/tags/kops/</loc>
+    <loc>https://citizix-blog-site.onrender.com/tags/kops/</loc>
     <lastmod>2021-02-02T15:06:08+03:00</lastmod>
   </url>
   
   <url>
-    <loc>https://citizix.com/tags/ansible/</loc>
+    <loc>https://citizix-blog-site.onrender.com/tags/ansible/</loc>
     <lastmod>2021-01-31T11:54:39+03:00</lastmod>
   </url>
   
   <url>
-    <loc>https://citizix.com/posts/provisioning-vagrant-boxes-with-ansible/</loc>
+    <loc>https://citizix-blog-site.onrender.com/posts/provisioning-vagrant-boxes-with-ansible/</loc>
     <lastmod>2021-01-31T11:54:39+03:00</lastmod>
   </url>
   
   <url>
-    <loc>https://citizix.com/tags/vagrant/</loc>
+    <loc>https://citizix-blog-site.onrender.com/tags/vagrant/</loc>
     <lastmod>2021-01-31T11:54:39+03:00</lastmod>
   </url>
   
   <url>
-    <loc>https://citizix.com/posts/vagrant-up-and-running/</loc>
+    <loc>https://citizix-blog-site.onrender.com/posts/vagrant-up-and-running/</loc>
     <lastmod>2021-01-29T10:20:44+03:00</lastmod>
   </url>
   
   <url>
-    <loc>https://citizix.com/posts/mysql-crud-backup-restore/</loc>
+    <loc>https://citizix-blog-site.onrender.com/posts/mysql-crud-backup-restore/</loc>
     <lastmod>2021-01-26T11:09:07+03:00</lastmod>
   </url>
   
   <url>
-    <loc>https://citizix.com/tags/cd/</loc>
+    <loc>https://citizix-blog-site.onrender.com/tags/cd/</loc>
     <lastmod>2021-01-26T09:20:52+03:00</lastmod>
   </url>
   
   <url>
-    <loc>https://citizix.com/tags/ci/</loc>
+    <loc>https://citizix-blog-site.onrender.com/tags/ci/</loc>
     <lastmod>2021-01-26T09:20:52+03:00</lastmod>
   </url>
   
   <url>
-    <loc>https://citizix.com/posts/jenkins-using-cli/</loc>
+    <loc>https://citizix-blog-site.onrender.com/posts/jenkins-using-cli/</loc>
     <lastmod>2021-01-26T09:20:52+03:00</lastmod>
   </url>
   
   <url>
-    <loc>https://citizix.com/posts/jenkins-add-slave/</loc>
+    <loc>https://citizix-blog-site.onrender.com/posts/jenkins-add-slave/</loc>
     <lastmod>2021-01-13T15:14:45+03:00</lastmod>
   </url>
   
   <url>
-    <loc>https://citizix.com/posts/install-jenkins-in-centos-8/</loc>
+    <loc>https://citizix-blog-site.onrender.com/posts/install-jenkins-in-centos-8/</loc>
     <lastmod>2021-01-13T11:14:16+03:00</lastmod>
   </url>
   
   <url>
-    <loc>https://citizix.com/posts/kubernetes-hacks/</loc>
+    <loc>https://citizix-blog-site.onrender.com/posts/kubernetes-hacks/</loc>
     <lastmod>2021-01-12T07:44:45+03:00</lastmod>
   </url>
   
   <url>
-    <loc>https://citizix.com/posts/postgres-create-user-database-add-access/</loc>
+    <loc>https://citizix-blog-site.onrender.com/posts/postgres-create-user-database-add-access/</loc>
     <lastmod>2021-01-12T07:23:07+03:00</lastmod>
   </url>
   
   <url>
-    <loc>https://citizix.com/tags/grafana/</loc>
+    <loc>https://citizix-blog-site.onrender.com/tags/grafana/</loc>
     <lastmod>2021-01-05T11:24:37+03:00</lastmod>
   </url>
   
   <url>
-    <loc>https://citizix.com/posts/grafana-loki/</loc>
+    <loc>https://citizix-blog-site.onrender.com/posts/grafana-loki/</loc>
     <lastmod>2021-01-05T11:24:37+03:00</lastmod>
   </url>
   
   <url>
-    <loc>https://citizix.com/tags/loki/</loc>
+    <loc>https://citizix-blog-site.onrender.com/tags/loki/</loc>
     <lastmod>2021-01-05T11:24:37+03:00</lastmod>
   </url>
   
   <url>
-    <loc>https://citizix.com/posts/kubernetes-secrets/</loc>
+    <loc>https://citizix-blog-site.onrender.com/posts/kubernetes-secrets/</loc>
     <lastmod>2020-11-19T13:12:40+03:00</lastmod>
   </url>
   
   <url>
-    <loc>https://citizix.com/posts/arch-i3-fix-open-save-file-dialog-too-bix/</loc>
+    <loc>https://citizix-blog-site.onrender.com/posts/arch-i3-fix-open-save-file-dialog-too-bix/</loc>
     <lastmod>2020-10-12T08:17:25+03:00</lastmod>
   </url>
   
   <url>
-    <loc>https://citizix.com/tags/arch-linux/</loc>
+    <loc>https://citizix-blog-site.onrender.com/tags/arch-linux/</loc>
     <lastmod>2020-10-12T08:17:25+03:00</lastmod>
   </url>
   
   <url>
-    <loc>https://citizix.com/tags/i3/</loc>
+    <loc>https://citizix-blog-site.onrender.com/tags/i3/</loc>
     <lastmod>2020-10-12T08:17:25+03:00</lastmod>
   </url>
   
   <url>
-    <loc>https://citizix.com/posts/arch-i3-change-default-browser/</loc>
+    <loc>https://citizix-blog-site.onrender.com/posts/arch-i3-change-default-browser/</loc>
     <lastmod>2020-10-12T08:14:47+03:00</lastmod>
   </url>
   
   <url>
-    <loc>https://citizix.com/tags/blog/</loc>
+    <loc>https://citizix-blog-site.onrender.com/tags/blog/</loc>
     <lastmod>2020-10-12T08:09:34+03:00</lastmod>
   </url>
   
   <url>
-    <loc>https://citizix.com/posts/blog-with-hugo/</loc>
+    <loc>https://citizix-blog-site.onrender.com/posts/blog-with-hugo/</loc>
     <lastmod>2020-10-12T08:09:34+03:00</lastmod>
   </url>
   
   <url>
-    <loc>https://citizix.com/tags/hugo/</loc>
+    <loc>https://citizix-blog-site.onrender.com/tags/hugo/</loc>
     <lastmod>2020-10-12T08:09:34+03:00</lastmod>
   </url>
   
